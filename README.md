@@ -12,13 +12,25 @@
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1DiBn4lUKVqXh0Yyt14sx4S-p11BXwD4n/view?usp=sharing](https://drive.google.com/file/d/1DiBn4lUKVqXh0Yyt14sx4S-p11BXwD4n/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://x.com/FRONTIER3301" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="FRONTIER3301" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saurabh3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh3301" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/spandey3301" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spandey3301" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/saurabh3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabh3301" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/spandey3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spranjal_3301" height="30" width="40" /></a>
-</p>
+</p> 
+-->
+<div align="left">
+  <a href="https://www.linkedin.com/in/saurabh3301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/saurabh3301/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+    <a href="mailto:saurabh1.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 <br>
 
 <!--## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=100&vCenter=true&width=435&height=40&lines=%F0%9F%92%BB+My+Tech+Stack:)](https://git.io/typing-svg)-->
